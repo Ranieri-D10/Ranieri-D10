@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ranieri  
 
 <div>
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rsm10/) 
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white(https://www.linkedin.com/in/rsm10/) 
   [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Ranieri-D10)  
   [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ranieri@example.com)
 </div>
