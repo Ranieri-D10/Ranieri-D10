@@ -13,7 +13,7 @@
 ## 🚀 About Me  
 I'm a curious and self-driven developer who enjoys building functional and elegant software solutions. Here's a snapshot of what I do:
 
-- 🌐 **Frontend**: Angular, HTML, CSS  
+- 🌐 **Frontend**: Angular, Vue, HTML, CSS  
 - ⚙️ **Backend**: Node.js, Express, Prisma  
 - 🗄️ **Database**: MySQL, PostgreSQL  
 - 🛠️ **Tools**: Git, Postman, Swagger  
