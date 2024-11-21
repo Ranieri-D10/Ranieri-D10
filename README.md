@@ -25,17 +25,6 @@ I'm a curious and self-driven developer who enjoys building functional and elega
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-D10&layout=compact&theme=dracula" />
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ranieri-D10&theme=dracula" />
 </div>
----
-
-## 🌟 Featured Projects  
-
-### [HostXChange](https://github.com/Ranieri-D10/HostXChange)  
-A platform connecting hosts and travelers with features like interactive maps and exchange management.
-
-### [ARI (Agenda of Medications for Seniors)](https://github.com/Ranieri-D10/ari)  
-A medication management system focused on accessibility for elderly users.
-
----
 
 ## 📫 Let's Connect!  
 
