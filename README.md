@@ -1,8 +1,16 @@
 # Hi there! 👋 I'm Ranieri  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rsm10/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Ranieri-D10)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ranieri@example.com)
+<div style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/rsm10/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ranieri-D10">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ranieri@example.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 🎓 **System Analyst & Developer**  
 💻 **Passionate Programmer focused on full stack development, data analysis and Ai**  
