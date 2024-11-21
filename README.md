@@ -14,7 +14,7 @@
 
 <br>
 
-🎓 **System Analyst & Developer**  
+🎓 **Systems Analysis and Development**  
 💻 **Passionate Programmer focused on full stack development, data analysis and Ai**  
 🌍 **Based in Brazil**  
 
