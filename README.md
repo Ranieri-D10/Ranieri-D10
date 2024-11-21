@@ -21,12 +21,10 @@ I'm a curious and self-driven developer who enjoys building functional and elega
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ranieri-D10&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-D10&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ranieri-D10&show_icons=true&theme=dracula" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-D10&layout=compact&theme=dracula" />
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ranieri-D10&theme=dracula" />
 </div>
-
-![Most Used Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ranieri-D10&theme=tokyonight)
-
 ---
 
 ## 🌟 Featured Projects  
