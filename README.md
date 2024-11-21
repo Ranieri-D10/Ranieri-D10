@@ -5,8 +5,6 @@
 🌍 **Based in Brazil**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ranieri-D10&color=brightgreen)  
-![GitHub Followers](https://img.shields.io/github/followers/Ranieri-D10?label=Followers&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/Ranieri-D10?label=Stars&style=social)  
 
 ---
 
@@ -25,11 +23,11 @@ I'm a curious and self-driven developer who enjoys building functional and elega
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ranieri-D10&show_icons=true&theme=radical" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-D10&layout=compact&theme=radical" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranieri-D10&show_icons=true&theme=radical)
+
 </div>
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-D10&langs_count=8&theme=radical&hide=css,html&layout=compact" alt="Top Languages by Repo" />
-</div>
+
 
 ---
 
