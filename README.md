@@ -12,6 +12,7 @@
   </a>
 </div>
 
+<br>
 
 🎓 **System Analyst & Developer**  
 💻 **Passionate Programmer focused on full stack development, data analysis and Ai**  
