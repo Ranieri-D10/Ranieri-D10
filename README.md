@@ -23,8 +23,6 @@ I'm a curious and self-driven developer who enjoys building functional and elega
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ranieri-D10&show_icons=true&theme=radical" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-D10&layout=compact&theme=radical" />
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranieri-D10&show_icons=true&theme=radical)
-
 </div>
 
 
