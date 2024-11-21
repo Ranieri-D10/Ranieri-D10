@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ranieri  
 
-<!--
-**Ranieri-D10/Ranieri-D10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **System Analyst & Developer**  
+💻 **Passionate Programmer focused on JavaScript and Web Development**  
+🌍 **Based in Brazil**  
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Ranieri-D10&color=brightgreen)  
+![GitHub Followers](https://img.shields.io/github/followers/Ranieri-D10?label=Followers&style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/Ranieri-D10?label=Stars&style=social)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+I'm a curious and self-driven developer who enjoys building functional and elegant software solutions. Here's a snapshot of what I do:
+
+- 🌐 **Frontend**: Angular, HTML, CSS  
+- ⚙️ **Backend**: Node.js, Express, Prisma  
+- 🗄️ **Database**: MySQL, PostgreSQL  
+- 🛠️ **Tools**: Git, Postman, Swagger  
+
+---
+
+## 📊 GitHub Stats  
+
+![Ranieri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranieri-D10&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-D10&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Featured Projects  
+
+### [HostXChange](https://github.com/Ranieri-D10/HostXChange)  
+A platform connecting hosts and travelers with features like interactive maps and exchange management.
+
+### [ARI (Agenda of Medications for Seniors)](https://github.com/Ranieri-D10/ari)  
+A medication management system focused on accessibility for elderly users.
+
+---
+
+## 📫 Let's Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranieri-d10)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Ranieri-D10)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ranieri@example.com)  
+
+---
+
+> "Strive for progress, not perfection." 🌟
+
