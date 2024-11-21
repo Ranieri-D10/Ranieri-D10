@@ -1,10 +1,8 @@
 # Hi there! 👋 I'm Ranieri  
 
 🎓 **System Analyst & Developer**  
-💻 **Passionate Programmer focused on JavaScript and Web Development**  
+💻 **Passionate Programmer focused on full stack development, data analysis and Ai**  
 🌍 **Based in Brazil**  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ranieri-D10&color=brightgreen)  
 
 ---
 
