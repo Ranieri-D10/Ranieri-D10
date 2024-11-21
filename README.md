@@ -25,7 +25,7 @@ I'm a curious and self-driven developer who enjoys building functional and elega
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-D10&layout=compact&theme=radical" />
 </div>
 
-
+![Most Used Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ranieri-D10&theme=tokyonight)
 
 ---
 
@@ -43,4 +43,4 @@ A medication management system focused on accessibility for elderly users.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rsm10/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Ranieri-D10)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ranieri@example.com)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ranieri@example.com)
