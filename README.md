@@ -4,6 +4,8 @@
 💻 **Passionate Programmer focused on full stack development, data analysis and Ai**  
 🌍 **Based in Brazil**  
 
+---
+
 ## 🚀 About Me  
 I'm a curious and self-driven developer who enjoys building functional and elegant software solutions. Here's a snapshot of what I do:
 
