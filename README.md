@@ -27,6 +27,10 @@ I'm a curious and self-driven developer who enjoys building functional and elega
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-D10&layout=compact&theme=radical" />
 </div>
 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-D10&langs_count=8&theme=radical&hide=css,html&layout=compact" alt="Top Languages by Repo" />
+</div>
+
 ---
 
 ## 🌟 Featured Projects  
@@ -44,8 +48,3 @@ A medication management system focused on accessibility for elderly users.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rsm10/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Ranieri-D10)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ranieri@example.com)  
-
----
-
-> "Strive for progress, not perfection." 🌟
-
