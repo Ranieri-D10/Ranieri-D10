@@ -7,7 +7,7 @@
   <a href="https://github.com/Ranieri-D10">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:ranieri@example.com">
+  <a href="mailto:ranieri.jobs.ms@outlook.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </div>
